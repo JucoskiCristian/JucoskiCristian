@@ -1,4 +1,4 @@
-## Oi eu sou o Cristian Jucoski, Estudante de Sistemas de Informação
+## Oi eu sou o Cristian Jucoski, Estudante de Sistemas de Informação 🧑‍💻
 <div align="center">
   <a href="https://github.com/JucoskiCristian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JucoskiCristian&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
