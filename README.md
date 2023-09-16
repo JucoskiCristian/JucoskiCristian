@@ -12,12 +12,13 @@
   ##
   
 <div style="display: inline_block"><br>
-  <h3>Tecnologias<h3>
+ <h3>Tecnologias</h3>
   <img align="center" alt="Crizz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Crizz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Crizz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Crizz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <h3>Frameworks<h3>
+
+ <h3>Frameworks</h3>
   <img align="center" alt="Crizz-React" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Crizz-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Crizz-Mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
