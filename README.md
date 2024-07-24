@@ -20,7 +20,7 @@
 
  <h3>Frameworks</h3>
   <img align="center" alt="Crizz-React" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Crizz-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Crizz-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Crizz-Mui" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
 </div>
   
