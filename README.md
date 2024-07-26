@@ -1,5 +1,5 @@
- <h3> Oi eu sou o Cristian Jucoski 🧑‍💻<br>
-  Aqui você ira encontrar de tudo, alguma coisa de front, alguma coisa de back, e até alguns bots! </h3>
+ # Oi eu sou o Cristian Jucoski 🧑‍💻
+  Front-end developer focado em entregar experiências digitais excepcionais. Gosto de trabalhar em projetos desafiadores, colaborando com equipes multidisciplinares para criar produtos inovadores. Dominando as principais ferramentas e frameworks do mercado, busco sempre estar atualizado com as últimas tendências do desenvolvimento web.
 
 ##
 
@@ -12,7 +12,7 @@
   ##
   
 <div style="display: inline_block"><br>
- <h3>Tecnologias</h3>
+ <h3>🖥️ Tecnologias</h3>
   <img align="center" alt="Crizz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Crizz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Crizz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +26,8 @@
   ##
  
 <div> 
-  <h3>Sociais</h3>
-  <a href="https://instagram.com/cristianjucoski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristian-jucoski-56633915b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <h3>🔗 Links</h3>
+  <a href="https://instagram.com/cristianjucoski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /a>
+  <a href="https://www.linkedin.com/in/cristian-jucoski-56633915b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="mailto:cristian.jucoski@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
 </div>
