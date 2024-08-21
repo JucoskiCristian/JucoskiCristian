@@ -12,15 +12,17 @@
   ##
   
 <div style="display: inline_block"><br>
- <h3>🖥️ Tecnologias</h3>
-  <img align="center" alt="Crizz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Crizz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Crizz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Crizz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <h3>🛠️ Skills</h3>
+  <img align="center" alt="Crizz-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Crizz-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Crizz-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Crizz-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Crizz-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Crizz-Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
- <h3>Frameworks</h3>
-  <img align="center" alt="Crizz-React" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Crizz-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/JucoskiCristian/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+ <h3>🔧 Ferramentas</h3>
+ <img align="center" alt="Crizz-Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+ <img align="center" alt="Crizz-Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC">
 </div>
   
   ##
