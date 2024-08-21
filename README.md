@@ -1,4 +1,4 @@
- # Oi eu sou o Cristian Jucoski 🧑‍💻
+# Oi eu sou o Cristian Jucoski 🧑‍💻
   Front-end developer focado em entregar experiências digitais excepcionais. Gosto de trabalhar em projetos desafiadores, colaborando com equipes multidisciplinares para criar produtos inovadores. Dominando as principais ferramentas e frameworks do mercado, busco sempre estar atualizado com as últimas tendências do desenvolvimento web.
 
 ##
