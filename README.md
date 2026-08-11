@@ -25,7 +25,7 @@ Front-end developer focado em entregar experiências digitais excepcionais. Gost
 
  <h3>🔧 Ferramentas</h3>
  <img align="center" alt="Crizz-Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
- <img align="center" alt="Crizz-Figma" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC">
+ <img align="center" alt="Crizz-Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
   
   ##
